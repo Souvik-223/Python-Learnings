@@ -1,0 +1,1 @@
+s={}  #It is an empty dictionary not an empty set
